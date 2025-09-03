@@ -7,7 +7,7 @@ from google.auth.transport.requests import Request
 import pickle
 
 # ==== Telegram Bot Setup ====
-API_ID = int(os.getenv("29755489"))   # your Telegram API ID
+API_ID = int(os.getenv(""))   # your Telegram API ID
 API_HASH = os.getenv("05e0d957751c827aa03494f503ab54fe")    # your Telegram API Hash
 BOT_TOKEN = os.getenv("7627011309:AAHf2txD-WsYk--0-oX3s0XKDWDnqurub6w")  # BotFather token
 

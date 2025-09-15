@@ -1,1 +1,1 @@
-worker: python main.py
+worker: python m3u8_bot.py

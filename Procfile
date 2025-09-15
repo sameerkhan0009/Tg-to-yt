@@ -1,1 +1,0 @@
-worker: python m3u8_bot.py
